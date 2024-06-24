@@ -17,3 +17,6 @@ The project was created to answer the following questions:
 => Which products are the bestselling in terms of quantity and revenue?
 
 => How do sales vary by product category and type?
+
+
+Data source : https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=shop
