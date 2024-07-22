@@ -1,6 +1,6 @@
 # coffeeshopsalesanalysis
 
-Sales analysis of a coffee shop based in New York.
+Sales analysis of a coffee shop based in New York using Excel
 
 The project was created to answer the following questions:
 
